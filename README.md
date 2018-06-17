@@ -17,7 +17,7 @@ Every pokémon in the game has been replaced with Mewtwo. -->
 
 The road out of Pallet Town has been blocked. The game is transformed into a quaint life-simulator about a sleepy town. 
 
-![Pleasant Town](.images/pleasant-town.png)
+![Pleasant Town](github-images/pleasant-town.png)
 
 ## **SNES Room**
 
@@ -25,7 +25,7 @@ The road out of Pallet Town has been blocked. The game is transformed into a qua
 
 Ash's room is full of Super Nintendo consoles.
 
-![SNES Room](.images/snes-room.png)
+![SNES Room](github-images/snes-room.png)
 
 ## **Upside Down**
 
@@ -33,18 +33,18 @@ Ash's room is full of Super Nintendo consoles.
 
 Player and pokémon sprites have been rotated 180 degrees.
 
-![Upside Down](.images/upside-down.png)
+![Upside Down](github-images/upside-down.png)
 
 ## **Super Starters**
 [Download Red](https://github.com/brannondorsey/pokemods/releases/download/data/pokered-super-starters.gbc) | [Download Blue](https://github.com/brannondorsey/pokemods/releases/download/data/pokeblue-super-starters.gbc) | [Code](https://github.com/brannondorsey/pokemods/tree/super-starters)
 
 The three starting pokémon are Charizard, Blastoise, and Venusaur.
 
-![Super Starters](.images/super-starters.png)
+![Super Starters](github-images/super-starters.png)
 
 ## **Bicycle Baller**
 [Download Red](https://github.com/brannondorsey/pokemods/releases/download/data/pokered-bicycle-baller.gbc) | [Download Blue](https://github.com/brannondorsey/pokemods/releases/download/data/pokeblue-bicycle-baller.gbc) | [Code](https://github.com/brannondorsey/pokemods/tree/bicycle-baller)
 
 Start the game with a bicycle item on your home PC. Every shop in the game also has free Master Balls.
 
-![Bicycle Ballers](.images/bicycle-2.png)
+![Bicycle Ballers](github-images/bicycle-2.png)
