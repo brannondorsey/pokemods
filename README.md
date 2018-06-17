@@ -1,4 +1,4 @@
-# Pokémod
+# Pokémods
 
 A small collection of Pokémon Red & Blue Gameboy game mods. You can download and play each mod online with [GameBoy Online](https://taisel.github.io/GameBoy-Online/) or any GBC emulator. Each mod is a branch of [pret/pokered](https://github.com/pret/pokered).
 
@@ -7,9 +7,6 @@ A small collection of Pokémon Red & Blue Gameboy game mods. You can download an
 - **Upside Down**: Player and pokémon sprites have been rotated 180 degrees.
 - **Super Starters**: The three starting pokémon are Charizard, Blastoise, and Venusaur.
 - **Bicycle Baller**: Start the game with a bicycle item on your home PC. Every shop in the game also has free Master Balls.
-<!-- 
-## **Too Much Mewtwo**
-Every pokémon in the game has been replaced with Mewtwo. -->
 
 ## **Pleasant Town**
 
