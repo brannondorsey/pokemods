@@ -2,13 +2,11 @@
 
 A small collection of Pokémon Red & Blue Gameboy game mods. You can download and play each mod online with [GameBoy Online](https://taisel.github.io/GameBoy-Online/) or any GBC emulator. Each mod is a branch of [pret/pokered](https://github.com/pret/pokered).
 
-## **Super Starters**
-[Download Red](https://github.com/brannondorsey/pokemods/releases/download/data/pokered-super-starters.gbc) | [Download Blue](https://github.com/brannondorsey/pokemods/releases/download/data/pokeblue-super-starters.gbc) | [Code](https://github.com/brannondorsey/pokemods/tree/super-starters)
-
-The three starting pokémon are Charizard, Blastoise, and Venusaur.
-
-![Super Starters](.images/super-starters.png)
-
+- **Pleasant Town**: The road out of Pallet Town has been blocked. The game is transformed into a quaint life-simulator about a sleepy town. 
+- **SNES Room**: Ash's room is full of Super Nintendo consoles.
+- **Upside Down**: Player and pokémon sprites have been rotated 180 degrees.
+- **Super Starters**: The three starting pokémon are Charizard, Blastoise, and Venusaur.
+- **Bicycle Baller**: Start the game with a bicycle item on your home PC. Every shop in the game also has free Master Balls.
 <!-- 
 ## **Too Much Mewtwo**
 Every pokémon in the game has been replaced with Mewtwo. -->
@@ -36,3 +34,17 @@ Ash's room is full of Super Nintendo consoles.
 Player and pokémon sprites have been rotated 180 degrees.
 
 ![Upside Down](.images/upside-down.png)
+
+## **Super Starters**
+[Download Red](https://github.com/brannondorsey/pokemods/releases/download/data/pokered-super-starters.gbc) | [Download Blue](https://github.com/brannondorsey/pokemods/releases/download/data/pokeblue-super-starters.gbc) | [Code](https://github.com/brannondorsey/pokemods/tree/super-starters)
+
+The three starting pokémon are Charizard, Blastoise, and Venusaur.
+
+![Super Starters](.images/super-starters.png)
+
+## **Bicycle Baller**
+[Download Red](https://github.com/brannondorsey/pokemods/releases/download/data/pokered-bicycle-baller.gbc) | [Download Blue](https://github.com/brannondorsey/pokemods/releases/download/data/pokeblue-bicycle-baller.gbc) | [Code](https://github.com/brannondorsey/pokemods/tree/bicycle-baller)
+
+Start the game with a bicycle item on your home PC. Every shop in the game also has free Master Balls.
+
+![Bicycle Ballers](.images/bicycle-2.png)
