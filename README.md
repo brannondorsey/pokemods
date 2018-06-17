@@ -1,35 +1,38 @@
-# Pokémon Red and Blue
+# Pokémod
 
-This is a disassembly of Pokémon Red and Blue.
+A small collection of Pokémon Red & Blue Gameboy game mods. You can download and play each mod online with [GameBoy Online](https://taisel.github.io/GameBoy-Online/) or any GBC emulator. Each mod is a branch of [pret/pokered](https://github.com/pret/pokered).
 
-It builds the following roms:
+## **Super Starters**
+[Download Red](https://github.com/brannondorsey/pokemods/releases/download/data/pokered-super-starters.gbc) | [Download Blue](https://github.com/brannondorsey/pokemods/releases/download/data/pokeblue-super-starters.gbc) | [Code](https://github.com/brannondorsey/pokemods/tree/super-starters)
 
-* Pokemon Red (UE) [S][!].gb  `md5: 3d45c1ee9abd5738df46d2bdda8b57dc`
-* Pokemon Blue (UE) [S][!].gb `md5: 50927e843568814f7ed45ec4f944bd8b`
+The three starting pokémon are Charizard, Blastoise, and Venusaur.
 
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
+![Super Starters](.images/super-starters.png)
 
+<!-- 
+## **Too Much Mewtwo**
+Every pokémon in the game has been replaced with Mewtwo. -->
 
-## See also
+## **Pleasant Town**
 
-* Disassembly of [**Pokémon Yellow**][pokeyellow]
-* Disassembly of [**Pokémon Gold**][pokegold]
-* Disassembly of [**Pokémon Crystal**][pokecrystal]
-* Disassembly of [**Pokémon Pinball**][pokepinball]
-* Disassembly of [**Pokémon TCG**][poketcg]
-* Disassembly of [**Pokémon Ruby**][pokeruby]
-* Disassembly of [**Pokémon Fire Red**][pokefirered]
-* Disassembly of [**Pokémon Emerald**][pokeemerald]
-* Discord: [**pret**][Discord]
-* irc: **irc.freenode.net** [**#pret**][irc]
+[Download Red](https://github.com/brannondorsey/pokemods/releases/download/data/pokered-pleasant-town.gbc) | [Download Blue](https://github.com/brannondorsey/pokemods/releases/download/data/pokeblue-pleasant-town.gbc) | [Code](https://github.com/brannondorsey/pokemods/tree/pleasant-town)
 
-[pokeyellow]: https://github.com/pret/pokeyellow
-[pokegold]: https://github.com/pret/pokegold
-[pokecrystal]: https://github.com/pret/pokecrystal
-[pokepinball]: https://github.com/pret/pokepinball
-[poketcg]: https://github.com/pret/poketcg
-[pokeruby]: https://github.com/pret/pokeruby
-[pokefirered]: https://github.com/pret/pokefirered
-[pokeemerald]: https://github.com/pret/pokeemerald
-[Discord]: https://discord.gg/cJxDDVP
-[irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
+The road out of Pallet Town has been blocked. The game is transformed into a quaint life-simulator about a sleepy town. 
+
+![Pleasant Town](.images/pleasant-town.png)
+
+## **SNES Room**
+
+[Download Red](https://github.com/brannondorsey/pokemods/releases/download/data/pokered-snes-room.gbc) | [Download Blue](https://github.com/brannondorsey/pokemods/releases/download/data/pokeblue-snes-room.gbc) | [Code](https://github.com/brannondorsey/pokemods/tree/snes-room)
+
+Ash's room is full of Super Nintendo consoles.
+
+![SNES Room](.images/snes-room.png)
+
+## **Upside Down**
+
+[Download Red](https://github.com/brannondorsey/pokemods/releases/download/data/pokered-upside-down.gbc) | [Download Blue](https://github.com/brannondorsey/pokemods/releases/download/data/pokeblue-upside-down.gbc) | [Code](https://github.com/brannondorsey/pokemods/tree/upside-down)
+
+Player and pokémon sprites have been rotated 180 degrees.
+
+![Upside Down](.images/upside-down.png)
